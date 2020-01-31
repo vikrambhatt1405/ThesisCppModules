@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/SimulatedAnnealing/main.cpp
+routines.h
+/home/vikrambhatt/CLionProjects/SimulatedAnnealing/routines.h
+iostream
+-
+algorithm
+-
+vector
+-
+queue
+-
+cstdlib
+-
+cmath
+-
+random
+-
+
+/home/vikrambhatt/CLionProjects/SimulatedAnnealing/routines.h
+cstddef
+-
+vector
+-
+

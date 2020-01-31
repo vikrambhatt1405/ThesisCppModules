@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ParMetis" targetName="ParMetis" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd96a211-1856-483d-9873-54b6116b8eff" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1SuyC782hrhYNzxCSUuxC3JKcs6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ParMetis" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ParMetis" TARGET_NAME="ParMetis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ParMetis" RUN_TARGET_NAME="ParMetis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd96a211-1856-483d-9873-54b6116b8eff" name="Default Changelist" comment="" />
+      <created>1572428648764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572428648764</updated>
+      <workItem from="1572428651496" duration="12000" />
+      <workItem from="1572428666620" duration="2404000" />
+      <workItem from="1572433349350" duration="646000" />
+      <workItem from="1572440278322" duration="19790000" />
+      <workItem from="1572461926813" duration="1434000" />
+      <workItem from="1572466253805" duration="618000" />
+      <workItem from="1572501479917" duration="834000" />
+      <workItem from="1572503488677" duration="273000" />
+      <workItem from="1572504386048" duration="2689000" />
+      <workItem from="1572539473495" duration="1723000" />
+      <workItem from="1572542632899" duration="1581000" />
+      <workItem from="1572618357493" duration="1443000" />
+      <workItem from="1572619855058" duration="57000" />
+      <workItem from="1572619933283" duration="3316000" />
+      <workItem from="1572644194766" duration="2667000" />
+      <workItem from="1572890859284" duration="415000" />
+      <workItem from="1573212717431" duration="15000" />
+      <workItem from="1573321258510" duration="1952000" />
+      <workItem from="1573323627071" duration="1691000" />
+      <workItem from="1573326703876" duration="1208000" />
+      <workItem from="1573390943152" duration="716000" />
+      <workItem from="1573450317222" duration="984000" />
+      <workItem from="1573570179854" duration="610000" />
+      <workItem from="1573825999314" duration="3737000" />
+      <workItem from="1573897075173" duration="2474000" />
+      <workItem from="1574008908343" duration="10801000" />
+      <workItem from="1574022349799" duration="1000" />
+      <workItem from="1574022588742" duration="4892000" />
+      <workItem from="1574027839865" duration="2290000" />
+      <workItem from="1574091839636" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HeuristicAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeuristicAlgorithm">
+				<Option output="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/HeuristicAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 HeuristicAlgorithm"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeuristicAlgorithm/fast">
+				<Option output="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/HeuristicAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 HeuristicAlgorithm/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/adjtocsr.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/assert_bisection_valid.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/calculate_fiedler_values.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/compute_gains.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/main.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/maximum_gain_swaps.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/partition_cost.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/random_bisection.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/routines.h">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/update_gains.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/validate_gains.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/weight.cpp">
+			<Option target="HeuristicAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

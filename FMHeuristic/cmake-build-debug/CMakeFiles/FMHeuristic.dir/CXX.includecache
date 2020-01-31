@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/FMHeuristic/doubly_linked_list.h
+ostream
+-
+
+/home/vikrambhatt/CLionProjects/FMHeuristic/main.cpp
+routines.h
+/home/vikrambhatt/CLionProjects/FMHeuristic/routines.h
+doubly_linked_list.h
+/home/vikrambhatt/CLionProjects/FMHeuristic/doubly_linked_list.h
+iostream
+-
+algorithm
+-
+vector
+-
+queue
+-
+memory
+-
+
+/home/vikrambhatt/CLionProjects/FMHeuristic/routines.h
+cstddef
+-
+vector
+-
+doubly_linked_list.h
+/home/vikrambhatt/CLionProjects/FMHeuristic/doubly_linked_list.h
+

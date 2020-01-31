@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/main.cpp
+routines.h
+/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/routines.h
+iostream
+-
+algorithm
+-
+vector
+-
+queue
+-
+metis.h
+-
+
+/home/vikrambhatt/CLionProjects/HeuristicAlgorithm/routines.h
+cstddef
+-
+vector
+-
+

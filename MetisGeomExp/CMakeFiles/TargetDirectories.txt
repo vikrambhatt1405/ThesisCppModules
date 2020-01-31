@@ -1,0 +1,3 @@
+/home/vikrambhatt/CLionProjects/MetisGeomExp/CMakeFiles/rebuild_cache.dir
+/home/vikrambhatt/CLionProjects/MetisGeomExp/CMakeFiles/MetisGeomExp.dir
+/home/vikrambhatt/CLionProjects/MetisGeomExp/CMakeFiles/edit_cache.dir

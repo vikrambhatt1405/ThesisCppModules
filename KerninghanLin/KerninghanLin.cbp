@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="KerninghanLin"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/KerninghanLin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/KerninghanLin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KerninghanLin">
+				<Option output="/home/vikrambhatt/CLionProjects/KerninghanLin/KerninghanLin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vikrambhatt/CLionProjects/KerninghanLin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 KerninghanLin"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="KerninghanLin/fast">
+				<Option output="/home/vikrambhatt/CLionProjects/KerninghanLin/KerninghanLin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vikrambhatt/CLionProjects/KerninghanLin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 KerninghanLin/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vikrambhatt/CLionProjects/KerninghanLin"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/vikrambhatt/CLionProjects/KerninghanLin/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/adjtocsr.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/assert_bisection_valid.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/compute_gains.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/main.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/maximum_gain_swaps.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/partition_cost.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/random_bisection.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/routines.h">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/update_gains.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/validate_gains.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/weight.cpp">
+			<Option target="KerninghanLin"/>
+		</Unit>
+		<Unit filename="/home/vikrambhatt/CLionProjects/KerninghanLin/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

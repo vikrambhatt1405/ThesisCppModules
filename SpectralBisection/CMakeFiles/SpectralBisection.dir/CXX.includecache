@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/SpectralBisection/main.cpp
+iostream
+-
+metis.h
+-
+routines.h
+/home/vikrambhatt/CLionProjects/SpectralBisection/routines.h
+filesystem
+-
+chrono
+-
+
+/home/vikrambhatt/CLionProjects/SpectralBisection/routines.h
+

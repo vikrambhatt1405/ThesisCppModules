@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/KerninghanLinVar2/main.cpp
+routines.h
+/home/vikrambhatt/CLionProjects/KerninghanLinVar2/routines.h
+iostream
+-
+algorithm
+-
+vector
+-
+
+/home/vikrambhatt/CLionProjects/KerninghanLinVar2/routines.h
+cstddef
+-
+vector
+-
+

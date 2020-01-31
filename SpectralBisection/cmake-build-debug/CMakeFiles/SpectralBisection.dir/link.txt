@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SpectralBisection.dir/main.cpp.o CMakeFiles/SpectralBisection.dir/adjtocsr.cpp.o CMakeFiles/SpectralBisection.dir/algebraic_connectivity.cpp.o  -o SpectralBisection -Wl,-Bstatic -lmetis -Wl,-Bdynamic 

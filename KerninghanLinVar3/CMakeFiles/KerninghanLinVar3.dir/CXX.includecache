@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/KerninghanLinVar3/adjtocsr.cpp
+string
+-
+fstream
+-
+iostream
+-
+vector
+-
+cassert
+-
+cstdlib
+-
+sstream
+-
+routines.h
+/home/vikrambhatt/CLionProjects/KerninghanLinVar3/routines.h
+
+/home/vikrambhatt/CLionProjects/KerninghanLinVar3/main.cpp
+routines.h
+/home/vikrambhatt/CLionProjects/KerninghanLinVar3/routines.h
+iostream
+-
+algorithm
+-
+vector
+-
+
+/home/vikrambhatt/CLionProjects/KerninghanLinVar3/routines.h
+cstddef
+-
+vector
+-
+
